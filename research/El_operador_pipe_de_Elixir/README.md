@@ -1,3 +1,5 @@
+# Nombre: Lopez Molgado Jorge Luis #23212002
+
 # El operador *pipe* de Elixir (`|>`) y la lectura de izquierda a derecha
 
 ## Introducción
