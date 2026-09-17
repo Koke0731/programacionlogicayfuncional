@@ -1,4 +1,4 @@
-# El operador Pipe y la lectura de izquierda a derecha en Elixir
+# El operador *pipe* de Elixir (`|>`) y la lectura de izquierda a derecha
 
 ## Introducción
 En Elixir, un lenguaje funcional, es común combinar varias funciones para transformar un dato paso a paso. Cuando estas funciones se anidan unas dentro de otras, el código puede volverse difícil de leer, ya que hay que interpretarlo de adentro hacia afuera. Para resolver este problema, Elixir ofrece el operador pipe (|>), que permite encadenar funciones de forma lineal, en el mismo orden en que se ejecutan. Este trabajo explica qué es el operador pipe, cómo funciona su sintaxis y por qué favorece una lectura de izquierda a derecha del código.
